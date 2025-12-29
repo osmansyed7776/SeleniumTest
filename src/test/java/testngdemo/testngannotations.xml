@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+
+    <test name="Test1">
+        <classes>
+            <class name="testngdemo.TestngAnnotationsDemo1"/>
+            <class name="testngdemo.TestngAnnotationsDemo2"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Test2">
+        <classes>
+            <class name="testngdemo.TestngAnnotationsDemo3"/>
+            <class name="testngdemo.TestngAnnotationsDemo4"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->
